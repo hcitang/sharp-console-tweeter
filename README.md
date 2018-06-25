@@ -4,12 +4,14 @@ A console-based twitter app with geeky keybindings. Makes use of [CursesSharp](h
 
 ## Key bindings
 
-c - compose
-j/k - move down one tweet/move up one tweet
-^j/^k - move down a bunch of tweets/move up a bunch of tweets
-^r - refresh for newest tweets
-esc - break out of compose mode
-q - quits
+| Key   | Action |
+| ----- | ------ |
+| c     | compose |
+| j/k   | move down one tweet/move up one tweet |
+| ^j/^k | move down a bunch of tweets/move up a bunch of tweets |
+| ^r    | refresh for newest tweets |
+| esc   | break out of compose mode |
+| q     | quits |
 
 ## Cool dude features
 
