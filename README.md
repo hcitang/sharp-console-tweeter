@@ -1,5 +1,7 @@
 # Sharp Console Tweeter
 
+[[https://github.com/hcitang/sharp-console-tweeter/blob/master/assets/sharpconsoletweeter.png]]
+
 A console-based twitter app with geeky keybindings. Makes use of [CursesSharp](http://sourceforge.net/projects/curses-sharp/) and [LinqToTwitter](http://linqtotwitter.codeplex.com/).
 
 ## Key bindings
